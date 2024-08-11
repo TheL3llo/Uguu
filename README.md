@@ -1,5 +1,3 @@
-alternativa selfhostata a https://catbox.moe/
-
 # Uguu
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=nokonoko_Uguu&metric=alert_status)](https://sonarcloud.io/dashboard?id=nokonoko_Uguu)
@@ -28,6 +26,7 @@ Uguu is a simple lightweight temporary file hosting and sharing platform, but ca
 ### Demo
 
 See the real world site at [uguu.se](https://uguu.se).
+alternativa selfhostata a [catbox.moe](https://catbox.moe/).
 
 ## Requirements
 
