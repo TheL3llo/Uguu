@@ -1,3 +1,5 @@
+alternativa selfhostata a https://catbox.moe/
+
 # Uguu
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=nokonoko_Uguu&metric=alert_status)](https://sonarcloud.io/dashboard?id=nokonoko_Uguu)
